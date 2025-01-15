@@ -1,4 +1,3 @@
-
 class Observer:
     def __init__(self, observer_name):
         self.observer_name = observer_name
